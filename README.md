@@ -1,6 +1,6 @@
 ### Hello world!
 
-I'm Rick, a software and release engineer on the [@ansible](https://github.com/ansible) team at [Red Hat](https://redhat.com/). Before that, I worked on the Fedora Infrastructure team for 8 years and volunteered for 2 years before that. I currently lead the Fedora Websites project and hold a position on the Fedora Mindshare committee. I am RHCSA and RHCE certified.
+I'm Rick, a software and release engineer on the [@ansible](https://github.com/ansible) team at [Red Hat](https://redhat.com/). Before that, I worked on the Fedora Infrastructure team for 8 years and volunteered for 2 years before that. I currently lead the Fedora Websites project and hold a position on the Fedora Mindshare committee. I am RHCSA and RHCE [certified](https://rhtapps.redhat.com/verify?certId=190-141-218) and a *Red Hat Certified Specialist in Ansible Automation*.
 
 #### Interests
 

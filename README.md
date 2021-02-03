@@ -7,6 +7,7 @@ I hold the following certifications:
 * Red Hat Certified Engineer
 * Red Hat Certified Specialist in Ansible Automation
 * Red Hat Certified Specialist in Containers for Kubernetes
+* Red Hat Certified Specialist in Ansible Best Practices
 
 #### Interests
 

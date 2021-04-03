@@ -1,6 +1,6 @@
 ### Hello world!
 
-I'm Rick, a software and release engineer on the [@ansible](https://github.com/ansible) team at [Red Hat](https://redhat.com/). Before that, I worked on the Fedora Infrastructure team for 8 years and volunteered for 2 years before that. I currently lead the Fedora Websites project and hold a position on the Fedora Mindshare committee.
+I'm Rick, a senior software and release engineer on the [@ansible](https://github.com/ansible) team at [Red Hat](https://redhat.com/). Before that, I worked on the Fedora Infrastructure team for 8 years and volunteered for 2 years before that. I currently lead the Fedora Websites project and hold a position on the Fedora Mindshare committee.
 
 I hold the following certifications:
 * Red Hat Certified System Administrator

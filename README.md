@@ -1,6 +1,6 @@
 ### Hello world!
 
-I'm Rick, a senior software engineer on the [@ansible](https://github.com/ansible) Anisble Automation Platform team at [Red Hat](https://redhat.com/). Before that, I worked on the Fedora Infrastructure team for 8 years and volunteered for 2 years before that. I currently lead the Fedora Websites project and hold a position on the Fedora Mindshare committee.
+I'm Rick, a senior software engineer on the [@ansible](https://github.com/ansible) Anisble Automation Platform team at [Red Hat](https://redhat.com/). Before that, I worked on the Fedora Infrastructure team for 8 years and volunteered for 2 years before that.
 
 #### Bragging Rights
 

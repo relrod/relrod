@@ -21,4 +21,4 @@ I lead the [da.gd](https://da.gd/) project (a URL shortener which also provides 
 
 #### Contact
 
-I have [LinkedIn](https://www.linkedin.com/in/elrodrick/) if that's your thing. I also have [Mastodon](https://mastodon.elrod.me/@rick)
+I have [LinkedIn](https://www.linkedin.com/in/elrodrick/) if that's your thing. I also have [Mastodon](https://mastodon.elrod.me/@rick).

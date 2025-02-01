@@ -1,6 +1,6 @@
 ### Hello world!
 
-I'm Rick, I work at [Red Hat](https://redhat.com/).
+I'm Rick, nice to meet you! I'm currently learning and excited about Rust!
 
 #### Interests
 

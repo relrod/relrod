@@ -2,6 +2,8 @@
 
 I'm Rick, nice to meet you! I'm currently learning and excited about Rust!
 
+I wear many hats, but broadly, I am a senior software engineer with years of site reliability experience.
+
 #### Interests
 
 My software-related research interests are primarily focused around functional programming and type theory. I'd love to see the general quality of software in our industry increase, and I believe that formal verification through type theory is the leading edge toward that. Feel free to talk to me about these things at any time. :-)

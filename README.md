@@ -11,8 +11,6 @@ I'm **Rick**, nice to meet you! I'm currently learning languages: **Rust** and *
 
 I wear many hats, but broadly, I am a **senior software engineer** with years of **site reliability** experience.
 
-#### Interests
+#### Moving to Codeberg
 
-My software-related research interests are primarily focused around functional programming and type theory. I'd love to see the general quality of software in our industry increase, and I believe that formal verification through type theory is the leading edge toward that. Feel free to talk to me about these things at any time. :-)
-
-I lead the [da.gd](https://da.gd/) project (a URL shortener which also provides some other bits of information), and the custom framework that backs it, along with a small but tight group of friends who help with maintenance and respond to abuse reports.
+For my personal projects I am moving primary development over to [Codeberg](https://codeberg.org/relrod).

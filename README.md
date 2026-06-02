@@ -11,6 +11,6 @@ I'm **Rick**, nice to meet you! I'm currently learning languages: **Rust** and *
 
 I wear many hats, but broadly, I am a **senior software engineer** with years of **site reliability** experience.
 
-#### Moving to Codeberg
+## Moving to Codeberg
 
 For my personal projects I am moving primary development over to [Codeberg](https://codeberg.org/relrod).
